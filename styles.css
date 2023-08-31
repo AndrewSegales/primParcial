@@ -1,0 +1,12 @@
+*{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    color: blueviolet;
+    position: absolute;
+}
+img{
+    width: auto;
+    height: auto;
+    border-color: aqua;
+}
